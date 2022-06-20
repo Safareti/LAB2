@@ -1,0 +1,324 @@
+# depslib dependency file v1.0
+1653261611 source:c:\users\usuario\documents\laboratorio de programación 2\primerparciallab2022\proyectoventacolchones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menuUsuario.h"
+
+1653261455 source:c:\users\usuario\documents\laboratorio de programación 2\primerparciallab2022\proyectoventacolchones\menuusuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+
+1653261774 c:\users\usuario\documents\laboratorio de programación 2\primerparciallab2022\proyectoventacolchones\menuusuario.h
+
+1653850030 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"menuUsuario.h"
+	"Vendedores.h"
+	"Administrador.h"
+	"Clientes.h"
+	"Colchon.h"
+	"Venta.h"
+	"fecha.h"
+
+1653510712 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\menuusuario.h
+
+1653510360 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\usuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"menuUsuario.h"
+	"menuUsuario.h"
+
+1653524391 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\vendedores.h
+	"menuUsuario.h"
+	"fecha.h"
+	<ctime>
+
+1653848860 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\fecha.h
+	<iostream>
+
+1653524408 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\menuvendedores.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Vendedores.h"
+
+1653521365 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\menuusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Usuarios.h"
+	"Usuarios.h"
+
+1653598821 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\usuarios.h
+
+1653854822 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\menuclientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Clientes.h"
+
+1653855077 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\clientes.h
+	"Usuarios.h"
+
+1653850326 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\colchon.h
+
+1653853154 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\administrador.cpp
+	<iostream>
+	"Administrador.h"
+	"Administrador.h"
+
+1653850192 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\administrador.h
+
+1653850387 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\colchon.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Colchon.h"
+
+1653850716 source:c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"Venta.h"
+
+1653850019 c:\users\usuario\documents\laboratorio de programación 2\proyectoventacolchones\venta.h
+	"Fecha.h"
+
+1655071141 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\administrador.cpp
+	<iostream>
+	<iomanip>
+	"Administrador.h"
+	"Usuarios.h"
+	"Administrador.h"
+
+1654618476 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\administrador.h
+	<ctime>
+	"fecha.h"
+
+1655330510 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\colchon.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Colchon.h"
+
+1655330276 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\colchon.h
+
+1655421561 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"menuUsuario.h"
+	"Empleado.h"
+	"Administrador.h"
+	"Clientes.h"
+	"Colchon.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"fecha.h"
+
+1653510712 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\menuusuario.h
+
+1655421199 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\vendedores.h
+	<iomanip>
+	"menuUsuario.h"
+	"fecha.h"
+	<ctime>
+
+1653848860 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\fecha.h
+	<iostream>
+
+1655054870 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\clientes.h
+	"Usuarios.h"
+
+1654289006 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\usuarios.h
+	<iomanip>
+	<cstring>
+
+1655420488 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\venta.h
+	"Fecha.h"
+	"Colchon.h"
+
+1655417966 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\menuclientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Clientes.h"
+
+1655049542 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\menuusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Usuarios.h"
+	"Usuarios.h"
+
+1655421230 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\menuvendedores.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Vendedores.h"
+
+1655421852 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Venta.h"
+	"Empleado.h"
+	"Clientes.h"
+	"DetalleVenta.h"
+
+1655420651 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\detalleventa.h
+	"Colchon.h"
+	"fecha.h"
+
+1654639445 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"DetalleVenta.h"
+	"Venta.h"
+
+1655421611 c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\empleado.h
+	<iomanip>
+	"menuUsuario.h"
+	"fecha.h"
+	<ctime>
+
+1655421544 source:c:\users\usuario\documents\laboratorio-programación ii\segundoparciallab2022\proyectoventacolchones\menuempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Empleado.h"
+
+1655761055 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\colchon.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Colchon.h"
+
+1655761039 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\colchon.h
+
+1654639446 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\detalleventa.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"DetalleVenta.h"
+	"Venta.h"
+
+1655420652 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\detalleventa.h
+	"Colchon.h"
+	"fecha.h"
+
+1653848862 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\fecha.h
+	<iostream>
+
+1655420490 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\venta.h
+	"Fecha.h"
+	"Colchon.h"
+
+1655421562 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	"menuUsuario.h"
+	"Empleado.h"
+	"Administrador.h"
+	"Clientes.h"
+	"Colchon.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"fecha.h"
+
+1653510714 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\menuusuario.h
+
+1655421612 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\empleado.h
+	<iomanip>
+	"menuUsuario.h"
+	"fecha.h"
+	<ctime>
+
+1654618478 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\administrador.h
+	<ctime>
+	"fecha.h"
+
+1655760991 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\clientes.h
+	"Usuarios.h"
+
+1654289008 c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\usuarios.h
+	<iomanip>
+	<cstring>
+
+1655417968 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\menuclientes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Clientes.h"
+
+1655421546 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\menuempleado.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Empleado.h"
+
+1655049544 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\menuusuarios.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iomanip>
+	"Usuarios.h"
+	"Usuarios.h"
+
+1655422210 source:c:\users\usuario\documents\laboratorio-programación ii\proyectoventacolchones\venta.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<ctime>
+	<iomanip>
+	"Venta.h"
+	"Empleado.h"
+	"Clientes.h"
+	"DetalleVenta.h"
+
