@@ -1,0 +1,19 @@
+﻿  Venta.cpp
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Colchon.h(102,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Colchon.h(114,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Colchon.h(197,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Colchon.h(209,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Usuarios.h(29,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Usuarios.h(41,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Usuarios.h(53,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Empleado.h(77,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Empleado.h(89,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Empleado.h(100,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Clientes.h(87,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Clientes.h(98,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\DetalleVenta.h(65,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Venta.cpp(372,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Venta.cpp(393,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Venta.cpp(511,55): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\Venta.cpp(557,44): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+  SegundoParcial.vcxproj -> C:\Users\bata_\OneDrive\Escritorio\Bauti\UTN\ProyectoVentaColchonesFINAL\SegundoParcial_VS\x64\Debug\SegundoParcial.exe
