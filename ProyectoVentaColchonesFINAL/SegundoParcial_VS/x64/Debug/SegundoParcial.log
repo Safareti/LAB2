@@ -1,0 +1,7 @@
+﻿  DetalleVenta.cpp
+D:\utn\ProyectoVentaColchonesFinal\Colchon.h(102,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\utn\ProyectoVentaColchonesFinal\Colchon.h(114,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\utn\ProyectoVentaColchonesFinal\Colchon.h(197,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\utn\ProyectoVentaColchonesFinal\Colchon.h(209,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\utn\ProyectoVentaColchonesFinal\DetalleVenta.h(65,1): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  SegundoParcial.vcxproj -> D:\utn\ProyectoVentaColchonesFinal\SegundoParcial\x64\Debug\SegundoParcial.exe
